@@ -1,0 +1,13 @@
+{
+  "appId": "aasaan.app",
+  "appName": "aasaan-customer-mobile-app",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://vsfashion.lightbooks-dev.io/",
+    "cleartext": true,
+    "allowNavigation": [
+      "*"
+    ]
+  }
+}

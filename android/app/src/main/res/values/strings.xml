@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">aasaan-customer-mobile-app</string>
+    <string name="title_activity_main">aasaan-customer-mobile-app</string>
+    <string name="package_name">aasaan.app</string>
+    <string name="custom_url_scheme">aasaan.app</string>
+</resources>

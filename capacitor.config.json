@@ -1,10 +1,10 @@
 {
-  "appId": "aasaan.app",
+  "appId": "app.aasaan.justfashion556",
   "appName": "aasaan-customer-mobile-app",
   "webDir": "out",
   "bundledWebRuntime": false,
   "server": {
-    "url": "https://vsfashion.lightbooks-dev.io/",
+    "url": "https://justfashion556.in/",
     "cleartext": true,
     "allowNavigation": [
       "*"

@@ -1,4 +1,4 @@
-package aasaan.app;
+package app.aasaan.justfashion556;
 
 import com.getcapacitor.BridgeActivity;
 

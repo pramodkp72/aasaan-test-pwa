@@ -1,10 +1,10 @@
 {
-  "appId": "app.aasaan.justfashion556",
+  "appId": "app.aasaan.farmpick",
   "appName": "aasaan-customer-mobile-app",
   "webDir": "out",
   "bundledWebRuntime": false,
   "server": {
-    "url": "https://justfashion556.in/",
+    "url": "https://theteaorganics.com/",
     "cleartext": true,
     "allowNavigation": [
       "*"

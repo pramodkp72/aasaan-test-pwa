@@ -1,4 +1,4 @@
-package app.aasaan.justfashion556;
+package app.aasaan.farmpick;
 
 import com.getcapacitor.BridgeActivity;
 

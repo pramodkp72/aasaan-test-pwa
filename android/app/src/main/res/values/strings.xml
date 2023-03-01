@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">aasaan-customer-mobile-app</string>
     <string name="title_activity_main">aasaan-customer-mobile-app</string>
-    <string name="package_name">app.aasaan.justfashion556</string>
-    <string name="custom_url_scheme">app.aasaan.justfashion556</string>
+    <string name="package_name">app.aasaan.farmpick</string>
+    <string name="custom_url_scheme">app.aasaan.farmpick</string>
 </resources>

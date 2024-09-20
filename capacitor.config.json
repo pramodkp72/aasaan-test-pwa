@@ -4,7 +4,7 @@
   "webDir": "out",
   "bundledWebRuntime": false,
   "server": {
-    "url": "https://justfashion556.in/",
+    "url": "https://medvault.ai/",
     "cleartext": true,
     "allowNavigation": [
       "*"
